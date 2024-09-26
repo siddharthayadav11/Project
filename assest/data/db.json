@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "name": "Mint Green",
+      "des": "WRIST BAND",
+      "price": "25.50",
+      "img": "./assest/img/Group-8211-copy-2.jpg",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus rem magnam atque esse sunt velit nesciunt incidunt cum numquam culpa ea nemo optio mollitia porro recusandae sequi, excepturi cupiditate maxime.",
+      "id": "1"
+    },
+    {
+      "name": "Mint Green",
+      "des": "WRIST BAND",
+      "price": "25.50",
+      "img": "./assest/img/Group-8211-copy-3.jpg",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus rem magnam atque esse sunt velit nesciunt incidunt cum numquam culpa ea nemo optio mollitia porro recusandae sequi, excepturi cupiditate maxime.",
+      "id": "2"
+    },
+    {
+      "name": "Mint Green",
+      "des": "WRIST BAND",
+      "price": "25.50",
+      "img": "./assest/img/Group-82111-copy-4.jpg",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus rem magnam atque esse sunt velit nesciunt incidunt cum numquam culpa ea nemo optio mollitia porro recusandae sequi, excepturi cupiditate maxime.",
+      "id": "3"
+    }
+  ]
+}
